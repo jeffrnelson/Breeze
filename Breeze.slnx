@@ -1,6 +1,5 @@
 <Solution>
   <Folder Name="/Solution Items/">
-    <File Path="../AI-Product-Listing-API/PROJECT_STATUS_AND_NEXT_STEPS.md" />
     <File Path="../AI-Product-Listing-API/README.md" />
     <File Path="../AI-Product-Listing-API/SETUP.md" />
     <File Path="../AI-Product-Listing-Mobile/src/AIProductListing.Mobile/AI_Product_Listing_System_Project_Plan.md" />
@@ -8,13 +7,14 @@
     <File Path="../AI-Product-Listing-Mobile/src/AIProductListing.Mobile/IOS_FIRST_SETUP.md" />
     <File Path="../AI-Product-Listing-Mobile/src/AIProductListing.Mobile/VISUAL_STUDIO_2026_SETUP.md" />
     <File Path="../AI-Product-Listing-Mobile/src/AIProductListing.Mobile/WINDOWS_DEVELOPMENT_SETUP.md" />
+    <File Path="PROJECT_STATUS_AND_NEXT_STEPS.md" />
   </Folder>
   <Project Path="../AI-Product-Listing-API/src/AIProductListing.API/AIProductListing.API.csproj" />
   <Project Path="../AI-Product-Listing-API/src/AIProductListing.Core/AIProductListing.Core.csproj" />
   <Project Path="../AI-Product-Listing-API/src/AIProductListing.Infrastructure/AIProductListing.Infrastructure.csproj" />
   <Project Path="../AI-Product-Listing-API/src/AIProductListing.Services/AIProductListing.Services.csproj" />
   <Project Path="../AI-Product-Listing-API/tests/AIProductListing.Tests/AIProductListing.Tests.csproj" />
-  <Project Path="../AI-Product-Listing-DB/AIProductListing.Database/AIProductListing.Database.sqlproj">
+  <Project Path="../AI-Product-Listing-DB/AIProductListing.Database/AIProductListing.Database.sqlproj" Id="8f7a5c9e-1234-4567-89ab-cdef01234567">
     <Build />
     <Deploy />
   </Project>
